@@ -1,4 +1,4 @@
-# Grocery-Store-Management-System
+# Grocery-Store-Management-Application
 
 This Python project focuses on developing a grocery store management application structured as a 3-tier architecture:
 
