@@ -1,6 +1,7 @@
 # Grocery-Store-Management-System
 
-In this python project,I build a grocery store management application. It will be 3 tier application,
-1. Front end: UI is written in HTML/CSS/Javascript
-2. Backend: Python and Flask
-3. Database: mysql
+This Python project focuses on developing a grocery store management application structured as a 3-tier architecture:
+
+1.Front-end: The user interface is crafted using HTML, CSS, and JavaScript.
+2.Back-end: Python, integrated with Flask, serves as the application's core logic.
+3.Database: MySQL is employed to store and manage data.
